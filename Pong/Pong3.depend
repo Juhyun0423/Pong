@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1561676407 source:c:\users\samsung\desktop\c++\pong3\main.cpp
+	"LUtil.cpp"
+
+1561497182 c:\users\samsung\desktop\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1561497182 c:\users\samsung\desktop\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1561497182 c:\users\samsung\desktop\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1561677762 c:\users\samsung\desktop\c++\pong3\lutil.h
+	"LOpenGL.h"
+	<stdio.h>
+
+1561676351 c:\users\samsung\desktop\c++\pong3\lopengl.h
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+
+1561679280 c:\users\samsung\desktop\c++\pong3\lutil.cpp
+	"LUtil.h"
+	"string"
+	"sstream"
+	"math.h"
+	"iostream"
+
